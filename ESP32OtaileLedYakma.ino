@@ -1,6 +1,5 @@
 /*
- * Rui Santos 
- * Complete Project Details http://randomnerdtutorials.com
+* Bu uygulamada 12 ve 13. satırdaki SSID kısmına modem adı passwprde de şifre yazılmalı
  */
 
 #include <WiFi.h>
